@@ -4,7 +4,7 @@ This repository contains the presentation I delivered during International Educa
 The workshop focuses on increasing awareness of interpersonal violence, understanding cultural perspectives, and promoting bystander intervention strategies that help create safer and more inclusive campuses.
 
 📂 What’s Included
-International Education Week-4.pptx — Full workshop slide deck
+International Education Week full workshop pdf.
 Content covering:
 Understanding interpersonal violence
 Consent and cultural perspectives
